@@ -1,0 +1,6 @@
+owner=220180259398615040
+prefix=!
+game=MOOZY#5665
+stayinchannel=true
+songinstatus=false
+token=NjEwNjA3MjczNzE0Mzg0ODk2.XVHuaQ.BkgOjDT7mHaYA-xj523IeVhpOco
